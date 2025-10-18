@@ -1,20 +1,20 @@
 
 ## 🚀 About Me:
 
- Azeez Wariz - Frontend developer 👨‍💻
+ # 👋 Hi, I'm Azeez Wariz
+ ### 💻 Software Engineer | 🌍 From Nigeria  
  
-Hey there! I'm Azeez Wariz, a passionate frontend web developer with 3 years of hands-on experience in crafting modern, responsive, and user-friendly web applications.
+A passionate frontend web developer with 3 years of hands-on experience in crafting modern, responsive, and user-friendly web applications.
 I’m dedicated to turning creative ideas into seamless digital experiences using React, Tailwind CSS, and JavaScript (ES6+), while continuously learning and exploring new tools that make the web better.
 
 🎯 Goal: Become a **Full-Stack Developer** and create impactful web applications.
 
 ## Tech Stack:
 
-**Languages:** HTML, CSS, JavaScript (ES6+)  
-**Frameworks:** React, Vite  
-**Styling:** Tailwind CSS, Bootstrap  
-**Tools:** Git, GitHub, VS Code,  
+**Languages:** Reactjs, Nodejs, JavaScript (ES6+)
+**Frontend & Framework:** React, Vite, Tailwind CSS, Bootstrap, HTML5, CSS3 
 **Backend (Learning):** Node.js, Express, MongoDB
+**Tools:** Git, GitHub, VS Code,  
 
 ## 🔗 Social:
 
