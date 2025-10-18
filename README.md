@@ -9,12 +9,15 @@ I’m dedicated to turning creative ideas into seamless digital experiences usin
 
 🎯 Goal: Become a **Full-Stack Developer** and create impactful web applications.
 
-## Tech Stack:
+## 🛠️ Tech Stack:
 
-**Languages:** Reactjs, Nodejs, JavaScript (ES6+)
-**Frontend & Framework:** React, Vite, Tailwind CSS, Bootstrap, HTML5, CSS3 
-**Backend (Learning):** Node.js, Express, MongoDB
-**Tools:** Git, GitHub, VS Code,  
+**Languages:** Reactjs, Nodejs, JavaScript (ES6+)  
+
+**Frontend & Framework:** React, Vite, Tailwind CSS, Bootstrap, HTML5, CSS3  
+
+**Backend (Learning):** Node.js, Express, MongoDB  
+
+**Tools:** Git, GitHub, VS Code,    
 
 ## 🔗 Social:
 
