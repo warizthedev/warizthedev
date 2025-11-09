@@ -4,7 +4,7 @@
  # 👋 Hi, I'm Azeez Wariz
  ### 💻 Software Engineer | 🌍 From Nigeria  
  
-A passionate frontend web developer with 3 years of hands-on experience in crafting modern, responsive, and user-friendly web applications.
+A passionate frontend web developer with 3+ years of hands-on experience in crafting modern, responsive, and user-friendly web applications.
 I’m dedicated to turning creative ideas into seamless digital experiences using React, Tailwind CSS, and JavaScript (ES6+), while continuously learning and exploring new tools that make the web better.
 
 🎯 Goal: Become a **Full-Stack Developer** and create impactful web applications.
